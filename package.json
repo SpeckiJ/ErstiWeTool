@@ -17,7 +17,7 @@
     "moment": "^2.22.2",
     "mysql": "^2.16.0",
     "node-validator": "^0.1.27",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "pug": "^3.0.1",
     "sanitize-html": "^1.19.0",
     "to-csv": "^0.1.1"
